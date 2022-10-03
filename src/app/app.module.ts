@@ -58,7 +58,6 @@ import { FormadminComponent } from './formadmin/formadmin/formadmin.component';
 import { FormbrokerComponent } from './formbroker/formbroker/formbroker.component';
 import { FormmwanaComponent } from './formmwana/formmwana/formmwana.component';
 import { DashComponent } from './brokpage/dash/dash.component';
-import { FeedComponent } from './brokpage/feed/feed.component';
 import { DashbdComponent } from './adminpage/dashbd/dashbd.component';
 import { BrokComponent } from './adminpage/brok/brok.component';
 import { TradiComponent } from './adminpage/tradi/tradi.component';
@@ -85,7 +84,6 @@ import { TradiComponent } from './adminpage/tradi/tradi.component';
     FormbrokerComponent,
     FormmwanaComponent,
     DashComponent,
-    FeedComponent,
     DashbdComponent,
     BrokComponent,
     TradiComponent

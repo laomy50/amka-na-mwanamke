@@ -5,3 +5,6 @@
 .navbar-light .navbar-nav .nav-link{
     color: var(--secondary-color);
 }
+.logo{
+    width: 8%;
+}

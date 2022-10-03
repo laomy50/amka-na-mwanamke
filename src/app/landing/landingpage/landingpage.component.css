@@ -38,7 +38,7 @@
     text-align: center;
 }
 .stepBox h1{
-color: var(--primary-color);
+color: white;
 }
 .stepBox p{
     color: #fff;
@@ -68,7 +68,7 @@ border-radius: 5px;
 .viewmore{
     text-decoration: none;
     background-color:var(--primary-color);
-    color:#000;
+    color:#fff;
     padding: 10px 10px;
     border-radius: 5px;
     font-size: 18px;

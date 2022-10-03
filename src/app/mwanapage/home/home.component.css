@@ -1,0 +1,55 @@
+
+.carbox{
+    padding: 10px 5px;
+}
+.carbox img{
+width: 100%;
+height: 250px;
+object-fit: cover;
+border-radius: 5px;
+}
+.carbox h1{
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.bookbtn{
+    color: #ffff;
+    background-color: var(--primary-color);
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+/* footer style */
+.payment{
+    width: 50px;
+}
+.footer{
+    overflow: hidden;
+    background-color: black;
+    padding: 20px 10px;
+    color: white;
+    position: sticky;
+    top: 100%;
+    height: 30%;
+}
+#nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0 3px;
+}
+#social a{
+    color: white;
+    padding: 0 3px;
+}
+#social a:hover{
+    color: #ff1a1a;
+}
+i{
+    padding: 0 10px;
+}
+#nav a:hover{
+    color: #ff1a1a;
+}

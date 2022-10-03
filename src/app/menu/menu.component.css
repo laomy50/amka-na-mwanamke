@@ -14,7 +14,7 @@ border-radius: 5px;
     font-weight: bold;
 }
 .bookbtn{
-    color: #000;
+    color: #ffff;
     background-color: var(--primary-color);
     text-decoration: none;
     padding: 10px 10px;
@@ -28,7 +28,7 @@ border-radius: 5px;
 }
 .footer{
     overflow: hidden;
-    background-color: royalblue;
+    background-color: black;
     padding: 20px 10px;
     color: white;
     position: sticky;
@@ -52,4 +52,8 @@ i{
 }
 #nav a:hover{
     color: #ff1a1a;
+}
+
+.logo{
+    width: 8%;
 }

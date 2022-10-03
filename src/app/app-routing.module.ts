@@ -7,7 +7,6 @@ import { OrdersComponent } from './adminpage/orders/orders.component';
 import { PayComponent } from './adminpage/pay/pay.component';
 import { TradiComponent } from './adminpage/tradi/tradi.component';
 import { DashComponent } from './brokpage/dash/dash.component';
-import { FeedComponent } from './brokpage/feed/feed.component';
 import { AdminComponent } from './dashboards/layout/admin/admin.component';
 import { BrokerComponent } from './dashboards/layout/broker/broker.component';
 import { MwanamkeComponent } from './dashboards/layout/mwanamke/mwanamke.component';
@@ -53,8 +52,7 @@ children:[
 {path:'broker',component:BrokerComponent,
 children:[
   {path:'',component:DashComponent},
-  {path:'broker/feed',component:FeedComponent},
-  {path:'broker/dash',component:DashComponent},
+  
   
 ]
 },
